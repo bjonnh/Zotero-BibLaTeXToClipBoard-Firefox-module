@@ -1,0 +1,8 @@
+<!ENTITY zoterobiblatextoclipboard.label "Your localized menuitem">
+<!ENTITY zoterobiblatextoclipboardContext.label "Your Menuitem">
+<!ENTITY zoterobiblatextoclipboardContext.accesskey "Y">
+<!ENTITY zoterobiblatextoclipboardToolbarButton.label "Your Toolbar Button">
+<!ENTITY zoterobiblatextoclipboardToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY zoterobiblatextoclipboardSidebar.label "Your Sidebar">
+<!ENTITY zoterobiblatextoclipboardToolbar.name  "example">
+<!ENTITY zoterobiblatextoclipboardToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &zoterobiblatextoclipboardToolbar.name;">

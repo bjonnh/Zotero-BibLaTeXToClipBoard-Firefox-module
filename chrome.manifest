@@ -1,0 +1,7 @@
+content   zoterobiblatextoclipboard                 chrome/content/
+skin      zoterobiblatextoclipboard   classic/1.0   chrome/skin/
+locale    zoterobiblatextoclipboard   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://zoterobiblatextoclipboard/content/ff-overlay.xul
+style chrome://global/content/customizeToolbar.xul chrome://zoterobiblatextoclipboard/skin/overlay.css
